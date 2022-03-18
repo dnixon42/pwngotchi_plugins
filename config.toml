@@ -1,0 +1,14 @@
+main.name = "pwnagotchi"
+main.lang = "en"
+main.whitelist = [
+]
+
+main.plugins.grid.enabled = true
+main.plugins.grid.report = true
+main.plugins.grid.exclude = [
+  "supertubes"
+]
+
+ui.display.enabled = true
+ui.display.type = "waveshare27inch"
+ui.display.color = "black"
